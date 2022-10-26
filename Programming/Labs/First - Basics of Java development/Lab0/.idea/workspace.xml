@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lab0" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5b4927e-813d-4338-a53c-404876477fc6" name="Changes" comment="Собрал в консоли файлик jar&#10;И немного поменял id пакета">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EwKs66Snhh00rllxgM215idHQl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;0e0226&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;S:/Projects/ITMO/Programming/Labs/First - Basics of Java development/Lab0&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5b4927e-813d-4338-a53c-404876477fc6" name="Changes" comment="" />
+      <created>1663501415161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663501415161</updated>
+      <workItem from="1663501416698" duration="1775000" />
+      <workItem from="1663503577945" duration="597000" />
+      <workItem from="1663506583881" duration="807000" />
+      <workItem from="1663507632745" duration="123000" />
+      <workItem from="1663508207039" duration="436000" />
+      <workItem from="1663508682015" duration="1548000" />
+      <workItem from="1663510321276" duration="112000" />
+      <workItem from="1663527749090" duration="39000" />
+      <workItem from="1663527801321" duration="8000" />
+      <workItem from="1663527823170" duration="207000" />
+      <workItem from="1663581699626" duration="31000" />
+      <workItem from="1665579658128" duration="68000" />
+      <workItem from="1665601018202" duration="6000" />
+      <workItem from="1665601040534" duration="6000" />
+      <workItem from="1665601148750" duration="38000" />
+      <workItem from="1666705103747" duration="6000" />
+    </task>
+    <task id="LOCAL-00001" summary="Лабораторная по проге №1 выполнена&#10;Которая про сборку программы в консоли и выполнение на helios. &#10;И про Java.Math&#10;Я честно-честно делал её в блокноте.&#10;В IDE просто причесал немного и добавил комментариев чтобы не плодить их в отчёте">
+      <created>1663502288771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663502288771</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Поместил файл в пакет org.vladusitmo.progalab0">
+      <created>1663502888600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663502888600</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Поместил файл в пакет org.vladusitmo.progalab0">
+      <created>1663503188846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663503188846</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Собрал в консоли файлик jar&#10;И немного поменял id пакета">
+      <created>1663510416362</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663510416362</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Лабораторная по проге №1 выполнена&#10;Которая про сборку программы в консоли и выполнение на helios. &#10;И про Java.Math&#10;Я честно-честно делал её в блокноте.&#10;В IDE просто причесал немного и добавил комментариев чтобы не плодить их в отчёте" />
+    <MESSAGE value="Поместил файл в пакет org.vladusitmo.progalab0" />
+    <MESSAGE value="Собрал в консоли файлик jar&#10;И немного поменял id пакета" />
+    <option name="LAST_COMMIT_MESSAGE" value="Собрал в консоли файлик jar&#10;И немного поменял id пакета" />
+  </component>
+</project>

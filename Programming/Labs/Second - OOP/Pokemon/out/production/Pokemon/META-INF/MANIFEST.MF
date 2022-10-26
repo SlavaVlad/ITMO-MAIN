@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: pokemon.GameKt
+Class-Path: Pokemon.jar kotlin-stdlib.jar kotlin-reflect.jar kotlin-test
+ .jar
+
